@@ -1,0 +1,52 @@
+BODY
+{
+    BACKGROUND-COLOR: #ffffff
+}
+P
+{
+    MARGIN-TOP: 4px;
+    FONT-SIZE: 11px;
+    MARGIN-BOTTOM: 4px;
+    COLOR: #717070;
+    FONT-FAMILY: Tahoma
+}
+TD.HSeparator
+{
+    BACKGROUND-POSITION: left top;
+    BACKGROUND-IMAGE: url(images/HSeparator.gif);
+    BACKGROUND-REPEAT: repeat-x
+}
+TD.VSeparator
+{
+    BACKGROUND-POSITION: center top;
+    BACKGROUND-IMAGE: url(images/VSeparator.gif);
+    BACKGROUND-REPEAT: repeat-y
+}
+TABLE.Top
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px
+}
+TABLE.Middle
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px
+}
+TABLE.Bottom
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px;
+    BORDER-LEFT: #000000 1px solid;
+    BORDER-BOTTOM: #000000 1px solid
+}
+IMG.BorderPhoto
+{
+    BORDER-RIGHT: #528d98 1px solid;
+    BORDER-TOP: #528d98 1px solid;
+    BORDER-LEFT: #528d98 1px solid;
+    BORDER-BOTTOM: #528d98 1px solid
+}
